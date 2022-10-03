@@ -1,0 +1,138 @@
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\BDINVENTARIO.db
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\BarcodeLib.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\BouncyCastle.Crypto.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.SqlServer.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ExcelNumberFormat.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\FontAwesome.Sharp.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.xmlworker.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OOXML.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OpenXml4Net.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.EF6.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.Linq.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.IO.Packaging.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.SqlServer.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ExcelNumberFormat.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OOXML.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.AssemblyReference.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.SuggestedBindingRedirects.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.frmLogin.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Inicio.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IConfiguracion.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IEntradas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IProductos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.ISalidas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdAcercade.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdClientes.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdProductos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdProveedores.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdSalidaExitosa.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Properties.Resources.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.GenerateResource.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.CoreCompileInputs.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.CopyComplete
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.exe.config
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.exe
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\MaxInfosis.exe
+C:\Essensse Pulperias Construccion 2\SISTEMA 2\SistemaInventario\ProyectoVenta\obj\Release\MaxInfosis.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\BDINVENTARIO.db
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.exe.config
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.exe
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\MaxInfosis.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\BarcodeLib.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\BouncyCastle.Crypto.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.SqlServer.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ExcelNumberFormat.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\FontAwesome.Sharp.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.xmlworker.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OOXML.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OpenXml4Net.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.EF6.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.Linq.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.IO.Packaging.dll
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ClosedXML.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\EntityFramework.SqlServer.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ExcelNumberFormat.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\itextsharp.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\NPOI.OOXML.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\bin\Release\System.Data.SQLite.xml
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.AssemblyReference.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.SuggestedBindingRedirects.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.frmLogin.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Inicio.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IConfiguracion.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IEntradas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.IProductos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Intermedios.ISalidas.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdAcercade.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdClientes.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdProductos.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdProveedores.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Modales.mdSalidaExitosa.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.Properties.Resources.resources
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.GenerateResource.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.CoreCompileInputs.cache
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\ProyectoVenta.csproj.CopyComplete
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\MaxInfosis.exe
+C:\Essensse Pulperias Construccion 2\SISTEMA 2 - INFOSIS\SistemaInventario\ProyectoVenta\obj\Release\MaxInfosis.pdb
